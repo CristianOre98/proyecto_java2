@@ -5,10 +5,18 @@
  */
 package suma;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Iván Pérez
  */
 public class suma {
+   
+          public static void main(String[] args) {
+        
+            
     
+    }
+   
 }
